@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LiberMovies</string>
+    <string name="pref_key">famous_movies_pref</string>
+
+    <string name="last_updated_popular">last_updated_time_popular</string>
+    <string name="last_updated_upcoming">last_updated_time_upcoming</string>
+    <string name="last_updated_top_rated">last_updated_time_top_rated</string>
+
+    <string name="popular_movies">Popular</string>
+    <string name="top_rated_movies">Top Rated</string>
+    <string name="upcoming_movies">Upcoming</string>
+    <string name="favorited_movies">Favorited</string>
+
+    <string name="error_recovering_data">Error recovering data</string>
+    <string name="error_reproducing_video">The video cannot be reproduced</string>
+
+    <string name="details">Movie Details</string>
+    <string name="runtime">"Runtime: "</string>
+    <string name="average_rating">"Average Rating: "</string>
+    <string name="release_date">"Release date: "</string>
+    <string name="poster_image">Poster image</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="reviews">Reviews:</string>
+
+    <string name="turn_favorite">Turn favorite</string>
+    <string name="unfavorite_movie">Unfavorite movie</string>
+    <string name="search_here">search here</string>
+    <string name="category">Category</string>
+</resources>
