@@ -1,4 +1,4 @@
-# liber Movies
+# Liber Movies
 
 Application that uses two APIs (OMDB and TheMovieDB) to fetch info about movies.
 
